@@ -1,0 +1,4 @@
+OpenClaw workflow demo
+timestamp: 2026-03-10 17:42 GMT+8
+token: RED-TEXTEDIT-DEMO-01
+result: if you can read this after reopen, the workflow passed
